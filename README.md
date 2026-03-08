@@ -52,7 +52,7 @@ Design steps:
 
 Add the schematic screenshot below.
 
-![LNA Schematic](schematic/schematic.png)
+![LNA Schematic](circuit/schematic.png)
 
 ---
 
@@ -60,7 +60,7 @@ Add the schematic screenshot below.
 
 Add the testbench screenshot below.
 
-![LNA Testbench](testbench/TB.png)
+![LNA Testbench](circuit/TB.png)
 
 ---
 
@@ -80,7 +80,7 @@ Add the testbench screenshot below.
 
 ### Stability Factor (Kf)
 
-![Stability Factor](results/stability_kf.png)
+![Stability Factor](results/kf.png)
 
 ---
 
@@ -94,7 +94,7 @@ The layout was implemented in Cadence Virtuoso following RF layout practices:
 - Wide metal routing for power and RF nodes
 - Layout prepared for DRC and LVS verification
 
-![LNA Layout](layout/layout.png)
+![LNA Layout](circuit/layout.png)
 
 ---
 
